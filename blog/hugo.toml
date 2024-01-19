@@ -1,0 +1,5 @@
+baseURL = 'https://venturacodes.github.io/'
+languageCode = 'pt-br'
+title = 'Venturacodes'
+
+theme="hugo-PaperMod"
